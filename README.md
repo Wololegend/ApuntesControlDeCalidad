@@ -21,15 +21,9 @@ En la era industrial la calidad ya no sólo depende del producto en sí: Costes,
 
 En un principio se realizaba un control al final de la cadena de producción (Inspección). El problema es la fatiga del inspector, que al final del día empieza a pasar productos defectuosos y la falta de comunicación entre inspector y responsable del proceso que reajusta la cadena.
 
-[Imagen de Inspeccion]
-
 Ahora, en cada paso del proceso se realizan reajustes de la cadena de producción y mediciones para el control de calidad. Además una medición final.
 
-[Imagen de Inspección revisada]
-
 Más recientemente se implementan las especativas del cliente mediante la Investigación dle Mercado, que es básicamente, feedback del cliente para saber sus necesidades.
-
-[Imagen]
 
 **El control de calidad es una actividad globalizadora, que incluye, no sólo a todas las personas y procesos de una cierta empresa, sino también a los proveedores y a los distribuidores.**
 
@@ -47,8 +41,6 @@ Más recientemente se implementan las especativas del cliente mediante la Invest
 * **Innovación**: Feedback obtenido de los empleados que sirve para mejorar, añadir o cambiar productos/servicios a favor de los intereses del cliente.
 
 ### Círculo de Deming
-
-[Imagen]
 
 1. **PLAN**: Definir objetivos, medidas para realizar mediciones, equipo responsable de la mejora y de recursos necesarios para alcanzar los objetivos.
 
