@@ -1,7 +1,7 @@
 # Apuntes - Control De Calidad
 ## Jaime Simeón Palomar Blumenthal - alu0101228587@ull.edu.es
 
-### Entorno de la calidad total
+## Entorno de la calidad total
 
 A mayor calidad menos inconvenientes para el usuario.
 
@@ -59,3 +59,14 @@ Más recientemente se implementan las especativas del cliente mediante la Invest
 * **Sistemas y recursos humanos**: Involucrar tanto a empleados como a subcontratadas en los estándares de calidad de la organización.
 
 * **Uso de la estadística**: Uso del método científico, basado en la evidencia, no en opiniones. Hoy en día todo se puede medir. Todo el personal tiene que tener cierta idea de estadística.
+
+
+## Introducción a las herramientas estadísticas de Control de Calidad
+
+Tomar, clasificar y representar datos, y extraer consecuencias científicas de ellos.
+
+* **Estadística Descriptiva**: Recoger, clasificar y representar datos.
+* **Inferencia estadística**: Llegar a conclusiones válidas a partir de los datos.
+
+El fichero a utilizar con los datos es _habitos.sav_, con datos de 175 estudiantes sobre 26 variables de interés: id, sexo, estudios, asistencia anual al cine, fútbol, conciertos, etc...
+
