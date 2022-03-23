@@ -121,3 +121,12 @@ El diagrama de datos y bigotes se utiliza principalmente para encontrar esos pun
 * [**Una cualitativa y otra cuantitativa**](https://campusingenieriaytecnologia2122.ull.es/mod/resource/view.php?id=29034): Es un diagrama de barras con medias. Por ejemplo, si hacemos el número de horas de TV semanales según el sexo, calculamos la media y la desviación típica de cadauno de los sexos y lo representamos. Si hay relación entre las dos variables, las medias son distintas.
 
 * [**Dos variables cualitativas**](https://campusingenieriaytecnologia2122.ull.es/mod/resource/view.php?id=29032): Grafo de barras apiladas. Si hay diferencia entre los porcentajes, hay relación entre las dos variables.
+
+
+# Componentes principales
+
+Es una técnica que permite analizar factores abstractos (amor, odio, etc) a partir de variables aleatorias cuantitativas.
+
+A nivel práctico, consiste en resumir varias variables en una creada por nosotros y con un significado propio. Por ejemplo, podemos agrupar el peso y altura en una nueva variable que se llame Tamaño. Esto lo podemos hacer porque las variables están correlacionadas: a más altura, más peso (por lo general).
+
+Para saber si nuestras variables están relacionadas, necesitamos la Matriz de Correlaciones.
